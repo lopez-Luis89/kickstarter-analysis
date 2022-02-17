@@ -45,4 +45,3 @@ The insights this graph offerred were pretty valuable since it require of lots o
 It is I important to note that the larger amount for the goal the higher the chance it will fail, you can clearly see on the graph that there’s almost a direct correlation with the success percentage vs the failure percentage VS the range of the goal.
 ![image](https://user-images.githubusercontent.com/98116799/154576788-e1c7f2cd-345f-412e-a4d0-edd6f9730d60.png)
 
-- What are some limitations of this dataset?
